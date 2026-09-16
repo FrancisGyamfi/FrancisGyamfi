@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Francis Gyamfi Osei Tutu | Software, AI and creative thinking</title>
+<desc id="desc">Dark navy banner with gold and teal accents. Open to software engineering internships.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#080d17"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#26364c" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)" opacity=".5"/>
+<path d="M0 0H1200" stroke="#e6bd69" stroke-width="6"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="54" y="64" fill="#e6bd69" font-size="14" letter-spacing="3">SOFTWARE ENGINEERING / APPLIED AI</text>
+<text x="50" y="133" fill="#f3f6fb" font-size="47" font-weight="700">Francis Gyamfi</text>
+<text x="52" y="177" fill="#f3f6fb" font-size="34">Osei Tutu</text>
+<text x="54" y="223" fill="#b4c3d7" font-size="21">Building useful software. Thinking beyond the screen.</text>
+<rect x="54" y="264" width="440" height="42" rx="21" fill="#152e2d" stroke="#367266"/>
+<circle cx="76" cy="285" r="5" fill="#78e0bc"/>
+<text x="92" y="291" fill="#a4f0d7" font-size="15">OPEN TO SOFTWARE ENGINEERING INTERNSHIPS</text>
+</g>
+<g transform="translate(840 75)" fill="none" stroke-width="2">
+<rect width="296" height="220" rx="14" fill="#0d1523" stroke="#33435b"/>
+<path d="M0 37H296" stroke="#33435b"/>
+<circle cx="20" cy="19" r="4" fill="#e6bd69" stroke="none"/><circle cx="36" cy="19" r="4" fill="#78e0bc" stroke="none"/><circle cx="52" cy="19" r="4" fill="#637692" stroke="none"/>
+<g font-family="monospace" font-size="16" stroke="none"><text x="22" y="75" fill="#78e0bc">$ whoami</text><text x="22" y="108" fill="#f3f6fb">developer</text><text x="22" y="138" fill="#f3f6fb">problem solver</text><text x="22" y="168" fill="#f3f6fb">visual storyteller</text><text x="22" y="201" fill="#e6bd69">Grambling State University</text></g></g></svg>
