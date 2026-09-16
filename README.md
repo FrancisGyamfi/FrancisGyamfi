@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td><img src="assets/terminal-card.svg" alt="Animated ASCII portrait of Francis Gyamfi Osei Tutu" /></td>
-    <td><img src="assets/info-card.svg" alt="Francis: CS and CIS student at Grambling State University, focused on backend, full-stack development, and applied AI" /></td>
+    <td><img src="assets/info-card.svg" alt="Francis: software engineer focused on backend systems, full-stack development, and applied AI" /></td>
   </tr>
 </table>
 
@@ -13,11 +13,11 @@
 </p>
 <!-- ANIMATED-CARDS:END -->
 
-I'm a Computer Science and Computer Information Systems student at **Grambling State University**, actively seeking **software engineering internships**.
+I'm a software engineer interested in backend systems, full-stack development, and applied AI. My work includes campus mentorship software, accessibility applications, and collaborative AI projects.
 
-I'm interested in the engineering behind products people depend on: how a request moves through a system, how data stays consistent, and what happens when a dependency fails. I want to build software that is useful on the surface and dependable underneath.
+I like understanding how the pieces of a product fit together: what happens after a request reaches the server, how the data is organized, and where things can break. Those questions shape how I approach a problem, choose an implementation, and think through the tradeoffs.
 
-My experience includes web development, accessibility projects, and collaborative AI work through **Break Through Tech AI and Team Anote**. I enjoy breaking a problem into smaller pieces, understanding the tradeoffs, and working with others to turn an idea into something usable.
+I've worked on mentor and mentee dashboards with Node.js, Express, and MongoDB, explored accessible communication with Flutter, and worked with Team Anote through Break Through Tech AI on autonomous agents. I enjoy turning a real need into software and working through the details that make it useful.
 
 ---
 
@@ -31,7 +31,7 @@ My experience includes web development, accessibility projects, and collaborativ
 
 ---
 
-### 🔧 What I'm Working On
+### 🔧 What I'm Focused On
 
 - Strengthening my data structures, algorithms, and problem-solving fundamentals.
 - Deepening my understanding of backend services, API design, and data modeling.
@@ -55,7 +55,7 @@ My experience includes web development, accessibility projects, and collaborativ
 
 ### 🎒 A Little About Me
 
-I care about both how software works and how people experience it. I'm drawn to teams where I can contribute, learn from code reviews, ask good questions, and take responsibility for following a problem through to a solution.
+I study Computer Science and Computer Information Systems at **Grambling State University**. I care about both how software works and how people experience it. I value clear communication, thoughtful feedback, and following a problem through to a solution.
 
 Outside of coding, I direct live broadcasts and make films. Live production has taught me to communicate clearly, troubleshoot under pressure, and understand how my decisions affect the rest of a team. For **[ClassSync](https://github.com/FrancisGyamfi/Classync)**, a team-built classroom attendance app, I served as **Video Production Lead**.
 
@@ -74,7 +74,7 @@ I also help connect students with opportunities as **ColorStack GSU's founding C
   </a>
 </p>
 
-**Open to software engineering internships in backend, full-stack, and applied AI.**
+**Let's connect around software engineering, applied AI, and useful products.**
 
 > *Understand the problem. Build with care. Keep improving.*
 
