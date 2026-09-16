@@ -1,73 +1,71 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Francis Gyamfi Osei Tutu. Software engineering, applied AI, and visual storytelling. Open to software engineering internships." />
+  <img src="assets/header.svg" width="100%" alt="Francis Gyamfi Osei Tutu. Software engineering, applied AI, and creative thinking. Open to internships." />
 </p>
+
+<table>
+  <tr>
+    <td width="39%"><img src="assets/portrait-terminal.svg" width="100%" alt="Animated pixel portrait of Francis Gyamfi" /></td>
+    <td width="61%"><img src="assets/profile-terminal.svg" width="100%" alt="Grambling State University CS and CIS student. Break Through Tech AI / Team Anote. Seeking software engineering internships." /></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francisot/"><img src="assets/linkedin.svg" height="34" alt="Connect on LinkedIn" /></a>
+  <br />
+  <sub><b>Open to software engineering internships • Full-stack development • Applied AI</b></sub>
 </p>
 
 ## Hey, I'm Francis 👋
 
-I'm a Computer Science and Computer Information Systems student at **Grambling State University**, interested in building software that makes everyday tasks easier. My work spans web development, accessibility, and collaborative AI systems.
+I'm studying **Computer Science and Computer Information Systems at Grambling State University**. I like taking a problem people deal with and figuring out what I can build to make it easier.
 
-I also direct live broadcasts and create films. That experience shapes how I build: understand the audience, communicate clearly, and pay attention to what happens when people actually use the product.
+That interest has taken me from web development to accessibility projects and collaborative AI systems through **Break Through Tech AI and Team Anote**. I'm especially interested in how an interface, its backend, and its data fit together to make a useful product.
 
-**I'm actively seeking software engineering internships**, with interests in full-stack development, applied AI, and developer tools.
+Outside of coding, I make films and direct live broadcasts. Both have taught me to think about the person on the other side of the screen, explain ideas clearly, and stay composed when something needs fixing.
 
-## Selected work
+<p align="center">
+  <img src="assets/creative-signal.svg" width="100%" alt="Decorative animated strip: Think, build, refine, share." />
+</p>
 
-### [Autonomous Intelligence](https://github.com/FrancisGyamfi/Autonomous-Intelligence)
-**Collaborative AI systems · Break Through Tech AI / Anote**
+## Selected projects
 
-Through Break Through Tech AI, I worked with Team Anote on autonomous agents. This repository contains Anote's open-source framework for coordinating agents, tools, and workflows through an orchestrator.
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/FrancisGyamfi/Autonomous-Intelligence"><img src="assets/project-ai.svg" width="100%" alt="Autonomous Intelligence: collaborative AI project with Team Anote through Break Through Tech AI. Explore the framework." /></a></td>
+    <td width="50%"><a href="https://github.com/FrancisGyamfi/infinity_ability_connect-IAC-"><img src="assets/project-access.svg" width="100%" alt="Infinity Ability Connect: Flutter and Dart accessibility prototype with speech input, sign imagery, and learning screens. View code." /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/FrancisGyamfi/ml-lab5-airbnb-analysis"><img src="assets/project-ml.svg" width="100%" alt="Airbnb ML Lab: Python and Jupyter coursework exploring logistic regression and model selection. Read the notebook." /></a></td>
+    <td width="50%"><a href="https://github.com/FrancisGyamfi/Classync"><img src="assets/project-classync.svg" width="100%" alt="ClassSync: team-built classroom attendance app. My contribution was Video Production Lead. Explore the project." /></a></td>
+  </tr>
+</table>
 
-[Explore the framework →](https://github.com/FrancisGyamfi/Autonomous-Intelligence)
+## My toolkit
 
-### [Infinity Ability Connect](https://github.com/FrancisGyamfi/infinity_ability_connect-IAC-)
-**Accessibility prototype · Flutter / Dart**
+<img src="assets/toolkit.svg" width="100%" alt="Python, Java, JavaScript, Node.js, Express, MongoDB, Flutter, Dart, Git, Figma" />
 
-A mobile app project exploring more accessible communication. The code includes speech input and letter-by-letter sign imagery, alongside sign-language learning screens. It's a prototype, with room to improve the experience and expand its capabilities.
+**Web:** HTML, CSS, JavaScript, Node.js, Express.js  
+**Data:** MongoDB, Mongoose  
+**Programming & mobile:** Python, Java, Flutter, Dart  
+**Development & design:** Git, GitHub, VS Code, Figma
 
-[Explore the code →](https://github.com/FrancisGyamfi/infinity_ability_connect-IAC-/tree/main/lib)
+## What I'm focused on
 
-### [Airbnb Machine Learning Lab](https://github.com/FrancisGyamfi/ml-lab5-airbnb-analysis)
-**Machine learning coursework · Python / Jupyter**
+- Building a stronger foundation in backend development, APIs, and data structures.
+- Exploring how AI agents coordinate tasks and use tools.
+- Making applications easier to understand and more accessible.
+- Connecting technical work with thoughtful product design.
 
-A notebook-based project on model selection for logistic regression using Airbnb data, part of my work developing a stronger foundation in machine learning.
+## Beyond the keyboard
 
-[Read the notebook →](https://github.com/FrancisGyamfi/ml-lab5-airbnb-analysis/blob/main/ModelSelectionForLogisticRegression.ipynb)
+I help build community as **ColorStack GSU's founding Communications & Outreach Chairperson** and **General Secretary of the Black Male Initiative**. I also work in live production with **GSU Athletics** and create films and visual stories.
 
-<details>
-<summary><b>Where software meets storytelling: ClassSync</b></summary>
-
-<br />
-
-[ClassSync](https://github.com/FrancisGyamfi/Classync) is a team-built iOS classroom attendance application. I served as **Video Production Lead**, creating commercial video content to communicate the product's purpose and experience.
-
-</details>
-
-## Tools I work with
-
-| Area | Technologies |
-| :--- | :--- |
-| Programming | Python, Java, JavaScript |
-| Web development | HTML, CSS, Node.js, Express.js |
-| Data | MongoDB, Mongoose |
-| Mobile projects | Flutter, Dart |
-| Development & design | Git, GitHub, VS Code, Figma |
-
-## Beyond the code
-
-- **Break Through Tech AI:** Collaborative AI project experience with Team Anote.
-- **ColorStack GSU:** Founding Communications & Outreach Chairperson.
-- **Black Male Initiative:** General Secretary, supporting mentorship and community.
-- **GSU Athletics:** Live production experience across multi-camera sporting events.
-- **Creative work:** Filmmaking, editing, and visual storytelling.
+Those experiences keep me close to the things I enjoy most: making something useful, working with people, and turning an idea into something others can experience.
 
 ---
 
 <p align="center">
-  Interested in my work? <a href="https://www.linkedin.com/in/francisot/"><b>Let's connect.</b></a><br />
-  <sub>Software with purpose. Stories with perspective.</sub>
+  <b>Have an internship opportunity or a project in mind?</b><br />
+  <a href="https://www.linkedin.com/in/francisot/">Let's connect on LinkedIn.</a>
 </p>
 
