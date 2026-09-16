@@ -29,7 +29,7 @@ LINES = [
     (None, "FrancisGyamfi@github", None, ORANGE),
     (None, "-----------------", None, DIM),
     ("OS", "Grambling State University", BLUE, WHITE),
-    ("Role", "CS + CIS Student | SWE Intern Candidate", BLUE, WHITE),
+    ("Role", "Software Engineer", BLUE, WHITE),
     ("Focus", "Backend, Full-Stack & Applied AI", BLUE, WHITE),
     (None, "", None, None),
     ("Stack", "Python  Java  JavaScript  Node.js", GREEN, WHITE),
