@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="assets/github-contribution-animation.svg" alt="Decorative animated neon grid, not contribution statistics" />
-  <br /><sub>Decorative animation. Actual contributions appear in GitHub's contribution calendar.</sub>
 </p>
 <!-- ANIMATED-CARDS:END -->
 
