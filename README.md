@@ -1,71 +1,81 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Francis Gyamfi Osei Tutu. Software engineering, applied AI, and creative thinking. Open to internships." />
-</p>
+# 👋 Hey, I'm Francis
 
+<!-- ANIMATED-CARDS:START -->
 <table>
   <tr>
-    <td width="39%"><img src="assets/portrait-terminal.svg" width="100%" alt="Animated pixel portrait of Francis Gyamfi" /></td>
-    <td width="61%"><img src="assets/profile-terminal.svg" width="100%" alt="Grambling State University CS and CIS student. Break Through Tech AI / Team Anote. Seeking software engineering internships." /></td>
+    <td><img src="assets/terminal-card.svg" alt="Animated ASCII portrait of Francis Gyamfi Osei Tutu" /></td>
+    <td><img src="assets/info-card.svg" alt="Francis: CS and CIS student at Grambling State University, focused on backend, full-stack development, and applied AI" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/francisot/"><img src="assets/linkedin.svg" height="34" alt="Connect on LinkedIn" /></a>
-  <br />
-  <sub><b>Open to software engineering internships • Full-stack development • Applied AI</b></sub>
+  <img src="assets/github-contribution-animation.svg" alt="Decorative animated neon grid, not contribution statistics" />
+  <br /><sub>Decorative animation. Actual contributions appear in GitHub's contribution calendar.</sub>
 </p>
+<!-- ANIMATED-CARDS:END -->
 
-## Hey, I'm Francis 👋
+I'm a Computer Science and Computer Information Systems student at **Grambling State University**, actively seeking **software engineering internships**.
 
-I'm studying **Computer Science and Computer Information Systems at Grambling State University**. I like taking a problem people deal with and figuring out what I can build to make it easier.
+I'm interested in the engineering behind products people depend on: how a request moves through a system, how data stays consistent, and what happens when a dependency fails. I want to build software that is useful on the surface and dependable underneath.
 
-That interest has taken me from web development to accessibility projects and collaborative AI systems through **Break Through Tech AI and Team Anote**. I'm especially interested in how an interface, its backend, and its data fit together to make a useful product.
-
-Outside of coding, I make films and direct live broadcasts. Both have taught me to think about the person on the other side of the screen, explain ideas clearly, and stay composed when something needs fixing.
-
-<p align="center">
-  <img src="assets/creative-signal.svg" width="100%" alt="Decorative animated strip: Think, build, refine, share." />
-</p>
-
-## Selected projects
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/FrancisGyamfi/Autonomous-Intelligence"><img src="assets/project-ai.svg" width="100%" alt="Autonomous Intelligence: collaborative AI project with Team Anote through Break Through Tech AI. Explore the framework." /></a></td>
-    <td width="50%"><a href="https://github.com/FrancisGyamfi/infinity_ability_connect-IAC-"><img src="assets/project-access.svg" width="100%" alt="Infinity Ability Connect: Flutter and Dart accessibility prototype with speech input, sign imagery, and learning screens. View code." /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/FrancisGyamfi/ml-lab5-airbnb-analysis"><img src="assets/project-ml.svg" width="100%" alt="Airbnb ML Lab: Python and Jupyter coursework exploring logistic regression and model selection. Read the notebook." /></a></td>
-    <td width="50%"><a href="https://github.com/FrancisGyamfi/Classync"><img src="assets/project-classync.svg" width="100%" alt="ClassSync: team-built classroom attendance app. My contribution was Video Production Lead. Explore the project." /></a></td>
-  </tr>
-</table>
-
-## My toolkit
-
-<img src="assets/toolkit.svg" width="100%" alt="Python, Java, JavaScript, Node.js, Express, MongoDB, Flutter, Dart, Git, Figma" />
-
-**Web:** HTML, CSS, JavaScript, Node.js, Express.js  
-**Data:** MongoDB, Mongoose  
-**Programming & mobile:** Python, Java, Flutter, Dart  
-**Development & design:** Git, GitHub, VS Code, Figma
-
-## What I'm focused on
-
-- Building a stronger foundation in backend development, APIs, and data structures.
-- Exploring how AI agents coordinate tasks and use tools.
-- Making applications easier to understand and more accessible.
-- Connecting technical work with thoughtful product design.
-
-## Beyond the keyboard
-
-I help build community as **ColorStack GSU's founding Communications & Outreach Chairperson** and **General Secretary of the Black Male Initiative**. I also work in live production with **GSU Athletics** and create films and visual stories.
-
-Those experiences keep me close to the things I enjoy most: making something useful, working with people, and turning an idea into something others can experience.
+My experience includes web development, accessibility projects, and collaborative AI work through **Break Through Tech AI and Team Anote**. I enjoy breaking a problem into smaller pieces, understanding the tradeoffs, and working with others to turn an idea into something usable.
 
 ---
 
-<p align="center">
-  <b>Have an internship opportunity or a project in mind?</b><br />
-  <a href="https://www.linkedin.com/in/francisot/">Let's connect on LinkedIn.</a>
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,express,mongodb,flutter,dart,git,github,figma" alt="Python, Java, JavaScript, Node.js, Express, MongoDB, Flutter, Dart, Git, GitHub, and Figma" />
 </p>
+
+**Also worked with:** HTML, CSS, Mongoose, VS Code, and Jupyter notebooks.
+
+---
+
+### 🔧 What I'm Working On
+
+- Strengthening my data structures, algorithms, and problem-solving fundamentals.
+- Deepening my understanding of backend services, API design, and data modeling.
+- Learning how testing, authentication, and error handling make applications more reliable.
+- Exploring how AI agents coordinate tasks, use tools, and handle failures.
+- Thinking through performance, accessibility, and the tradeoffs behind product decisions.
+
+---
+
+### 🧩 A Few Things I've Worked On
+
+- **[Autonomous Intelligence](https://github.com/FrancisGyamfi/Autonomous-Intelligence):** Worked with Team Anote through Break Through Tech AI on autonomous agents. This repository contains Anote's framework for coordinating specialized agents, tools, and workflows.
+
+- **[Infinity Ability Connect](https://github.com/FrancisGyamfi/infinity_ability_connect-IAC-):** A Flutter accessibility prototype exploring speech input, letter-by-letter sign imagery, and sign-language learning screens.
+
+- **Black Male Initiative Web App:** Worked on mentor and mentee dashboards and forms for a campus mentorship application using Node.js, Express, MongoDB, and Mongoose.
+
+- **[Airbnb Machine Learning Lab](https://github.com/FrancisGyamfi/ml-lab5-airbnb-analysis):** Python coursework exploring logistic regression and model selection with Airbnb data.
+
+---
+
+### 🎒 A Little About Me
+
+I care about both how software works and how people experience it. I'm drawn to teams where I can contribute, learn from code reviews, ask good questions, and take responsibility for following a problem through to a solution.
+
+Outside of coding, I direct live broadcasts and make films. Live production has taught me to communicate clearly, troubleshoot under pressure, and understand how my decisions affect the rest of a team. For **[ClassSync](https://github.com/FrancisGyamfi/Classync)**, a team-built classroom attendance app, I served as **Video Production Lead**.
+
+I also help connect students with opportunities as **ColorStack GSU's founding Communications & Outreach Chairperson** and **General Secretary of the Black Male Initiative**.
+
+---
+
+### 📬 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/francisot/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/FrancisGyamfi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+**Open to software engineering internships in backend, full-stack, and applied AI.**
+
+> *Understand the problem. Build with care. Keep improving.*
 
